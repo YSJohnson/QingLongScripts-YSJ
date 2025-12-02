@@ -1,3 +1,4 @@
+阅读入口 微信扫码 建议对扫：https://gitee.com/ysjohnson6/qinglong/raw/master/jlyd.png
 代码发布地址：https://github.com/YSJohnson/QingLongScripts-YSJ
 云端最新版: v2.0
 
