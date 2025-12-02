@@ -1,0 +1,5 @@
+代码发布地址：https://github.com/YSJohnson/QingLongScripts-YSJ
+云端最新版: v2.0
+
+当前阅读平台正在更新 对扫二维码就能进
+第一篇文章说是检测文章 但是我实测不读也行
